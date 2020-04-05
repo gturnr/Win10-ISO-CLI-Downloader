@@ -12,7 +12,7 @@ Currently, downloading Windows 10 ISOs requires the Windows installation media c
 ## Usage:
 * Download script to your ISOs directory
 ```
-git clone https://github.com/guyturner797/Windows-10-ISO-Ptyhon-Downloader.git
+git clone https://github.com/guyturner797/Win10-ISO-CLI-Downloader.git
 ```
 * Run the script
 ```
