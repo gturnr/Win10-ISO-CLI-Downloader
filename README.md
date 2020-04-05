@@ -1,4 +1,4 @@
-# Windows 10 ISO Python Downloader
+# Windows 10 ISO CLI Downloader
  Python tool to download latest Windows 10 ISO direct from Microsoft through CLI.
  NOTE - This is an ongoing project and not yet fully functional..
  
@@ -12,7 +12,7 @@ Currently, downloading Windows 10 ISOs requires the Windows installation media c
 ## Usage:
 * Download script to your ISOs directory
 ```
-git clone https://github.com/guyturner797/Windows-10-ISO-Ptyhon-Downloader.git
+git clone https://github.com/guyturner797/Win10-ISO-CLI-Downloader.git
 ```
 * Run the script
 ```
